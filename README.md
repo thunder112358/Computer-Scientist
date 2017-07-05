@@ -1,2 +1,2 @@
 # Computer-Scientist
-Learning Path to Computer scientist using 4-years
+Learning Path in Computer Science using 4-years
